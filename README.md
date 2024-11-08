@@ -10,7 +10,7 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Java , HTML, CSS, Python],
+  code: [Javascript, React, HTML, CSS, Node.JS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
